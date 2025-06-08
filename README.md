@@ -90,7 +90,7 @@ To get a local copy up and running, follow these steps.
 ### Setup
 
 Clone this repository to your desired folder:
-https://github.com/rachaouldbabaali/Loop-filter-optimization
+https://github.com/pintu234/FrontEnd-Filter-Optimization
 Example commands:
 
 ```sh
