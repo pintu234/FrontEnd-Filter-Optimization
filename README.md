@@ -95,7 +95,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/rachaouldbabaali/Loop-filter-optimization
+  git clone https://github.com/pintu234/FrontEnd-Filter-Optimization
 ```
 
 ### Install
@@ -126,9 +126,8 @@ You can deploy this project using:
 
 👤 **Author**
 
-- GitHub: [rachaouldbabaali](https://github.com/rachaouldbabaali)
-- Twitter: [@Racha_oba](https://twitter.com/Racha_oba)
-- LinkedIn: [Racha Ould Babaali](https://www.linkedin.com/in/rachaouldbabaali/)
+- GitHub: [pintu234](https://github.com/pintu234/)
+- LinkedIn: [pintu](https://www.linkedin.com/in/pintu-kumar-baranwal-4b7330232/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,7 +141,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/rachaouldbabaali/Loop-filter-optimization/issues).
+Feel free to check the [issues page](https://github.com/pintu234/FrontEnd-Filter-Optimization/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,7 +159,7 @@ I would like to express my gratitude to Loop for affording me the chance to show
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/rachaouldbabaali/Loop-filter-optimization/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/pintu234/FrontEnd-Filter-Optimization/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 # Loop-filter-optimization
